@@ -1,0 +1,10 @@
+[
+  {
+    "package": "gtfsio",
+    "oncran": true
+  },
+  {
+    "package": "tidytransit",
+    "oncran": true
+  }
+]
